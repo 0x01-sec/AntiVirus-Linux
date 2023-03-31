@@ -4,7 +4,7 @@
   <img src="https://cdn.icon-icons.com/icons2/39/PNG/64/antivirus_virus_linux_penguin_6258.png" alt="Image" width="200" height="200" />
 </p>
 
-This is a Python script that performs various security checks on a Linux system to detect and mitigate potential threats.
+       This is a Python script that performs various security checks on a Linux system to detect and mitigate potential threats.
 Features
 
     * Creates a backup of the original syslog file and truncates it to clear any sensitive information.
