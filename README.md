@@ -29,7 +29,9 @@ Requirements
 Installation
 
 
-    git clone https://github.com/0x01-sec/AntiVirus-Linux-.git
+    1) sudo apt-get install chkrootkit
+
+    2) git clone https://github.com/0x01-sec/AntiVirus-Linux-.git
 
 Install the required packages:
 
